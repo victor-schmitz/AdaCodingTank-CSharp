@@ -1,14 +1,14 @@
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.exe
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.deps.json
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.runtimeconfig.json
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.dll
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.pdb
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.AssemblyInfoInputs.cache
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.AssemblyInfo.cs
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.csproj.CoreCompileInputs.cache
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.dll
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\refint\DESAFIO 05.dll
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.pdb
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.genruntimeconfig.cache
-C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\ref\DESAFIO 05.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.exe
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\bin\Debug\net6.0\DESAFIO 05.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\refint\DESAFIO 05.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\DESAFIO 05.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ADA CODING TANK\DESAFIO 05\DESAFIO 05\obj\Debug\net6.0\ref\DESAFIO 05.dll

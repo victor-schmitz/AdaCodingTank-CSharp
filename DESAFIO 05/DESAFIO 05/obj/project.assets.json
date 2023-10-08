@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\ADA CODING TANK\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\ADA CODING TANK\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05.csproj",
       "projectName": "DESAFIO 05",
-      "projectPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\ADA CODING TANK\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05.csproj",
+      "projectPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\ADA CODING TANK\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\ADA CODING TANK\\DESAFIO 05\\DESAFIO 05\\DESAFIO 05\\obj\\",
+      "outputPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\ADA CODING TANK\\DESAFIO 05\\DESAFIO 05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

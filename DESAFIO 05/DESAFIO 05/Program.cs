@@ -1,39 +1,40 @@
-﻿using System;
+﻿namespace Desafio05;
 
 class Program
 {
     static void Main()
     {
-        // Defina as dimensões da matriz tridimensional
-        int dimensao1 = 3; // Primeira dimensão
-        int dimensao2 = 4; // Segunda dimensão
-        int dimensao3 = 2; // Terceira dimensão
+        // Variáveis
+        float pesoLimite = 50;
+        float pesoPeixes;
+        float multaFloat = 0; // Vai ser arredondada para o primeiro inteiro abaixo dela para calcular multa
+        int multaInt;
 
-        // Crie a matriz tridimensional
-        int[,,] matriz3D = new int[dimensao1, dimensao2, dimensao3];
+        Console.WriteLine("Bem vindo ao verificador de peso e multa de peixes da ADA!\n");
 
-        // Preencha a matriz com valores
-        for (int i = 0; i < dimensao1; i++)
+        while (true)
         {
-            for (int j = 0; j < dimensao2; j++)
+            Console.Write("Digite o peso de peixes que você tem: ");
+
+            if (!float.TryParse(Console.ReadLine(), out pesoPeixes) || pesoPeixes < 0)
             {
-                for (int k = 0; k < dimensao3; k++)
-                {
-                    matriz3D[i, j, k] = i + j + k;
-                }
+                Console.WriteLine("\nDigite um peso válido.\n");
             }
-        }
-
-        // Acesse e imprima valores da matriz
-        Console.WriteLine("Valores da matriz tridimensional:");
-        for (int i = 0; i < dimensao1; i++)
-        {
-            for (int j = 0; j < dimensao2; j++)
+            else
             {
-                for (int k = 0; k < dimensao3; k++)
+                if (pesoPeixes < pesoLimite)
                 {
-                    Console.WriteLine($"matriz3D[{i}, {j}, {k}] = {matriz3D[i, j, k]}");
+                    Console.WriteLine($"\nSeu peso é {pesoPeixes} quilos e você não excedeu o limite.\nSua multa é R$ {multaFloat:F2}");
                 }
+                else
+                {
+                    {
+                        multaFloat = pesoPeixes - pesoLimite;
+                        multaInt = (int)multaFloat * 4;
+                        Console.WriteLine($"\nSeu peso é {pesoPeixes} e você excedeu {multaFloat} quilos.\nSua multa é de R$ {multaInt}");
+                    }
+                }
+                break;
             }
         }
     }
