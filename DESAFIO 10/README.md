@@ -1,4 +1,4 @@
-## DESAFIO 09: Ingresso em Turmas
-Crie um algoritmo que dê um leque de opções de cursos para o usuário
-escolher e qual turma ele poderá ingressar, usando o conceito
-de "Switch-Case" na linguagem CSharp.
+## DESAFIO 09: Verificador de Palíndromos
+Palavras palíndromos são aquelas que são lidas da direita para a esquerda da mesma
+maneira que da esquerda para a direita. Exemplo ARARA. Dado uma palavra, informar se ela
+é palíndroma ou não.
