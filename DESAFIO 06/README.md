@@ -1,4 +1,4 @@
-## DESAFIO 06: Classificador de Nadador
+## DESAFIO 06: Classificação de Nadador
 Elabore um algoritmo que dada a idade de um nadador, classifique-o em uma das seguintes categorias:
 Infantil A = 5 a 7 anos.
 Infantil B = 8 a 11 anos.
