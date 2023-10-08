@@ -1,9 +1,8 @@
-## DESAFIO 05: Verificador de Peso e Multa de Peixes
-Sr. José, pescador, comprou um microcomputador para
-controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de
-peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo
-(50 quilos) deve pagar uma multa de R$4,00 por quilo excedente. Sr. José, precisa que
-você faça programa que leia o peso de peixes e verifique se há excesso.
-Se houver, gravar o Excesso e o valor da multa que Sr. José
-deverá pagar. Caso contrário mostrar os valores com o conteúdo ZERO. 
-Apresentar as mensagens no console.
+## DESAFIO 06: Classificador de Nadador
+Elabore um algoritmo que dada a idade de um nadador, classifique-o em uma das seguintes categorias:
+Infantil A = 5 a 7 anos.
+Infantil B = 8 a 11 anos.
+Juvenil A = 12 a 13 anos.
+Juvenil B = 14 a 17 anos.
+Adultos = Maiores de 18 anos.
+Apresentar as mensagens no console com a classificação.
