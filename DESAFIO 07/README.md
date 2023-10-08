@@ -1,4 +1,6 @@
-## DESAFIO 09: Ingresso em Turmas
-Crie um algoritmo que dê um leque de opções de cursos para o usuário
-escolher e qual turma ele poderá ingressar, usando o conceito
-de "Switch-Case" na linguagem CSharp.
+## DESAFIO 09: Gerenciamento de Vendas
+Uma loja de produtos eletrônicos com vendas regulares opta por contratar uma equipe
+para a organização de um sistema de gerenciamento de vendas. Elabore um algoritmo que,
+a partir de dados fornecidos pelo usuário, calcule o valor da venda de um produto,
+exibindo uma saída em vídeo contendo o código do produto, o nome, a quantidade
+comprada, o valor unitário e o valor total.
