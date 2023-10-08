@@ -1,2 +1,11 @@
-## Funcionalidade do sistema: 
-É um sistema para auxiliar um usuário do metrô de Paris a saber o trajeto mais rápido entre a estação onde ele se encontra e a estação de destino. O usuário tem um painel com o mapa, podendo selecionar a sua estação atual e a de destino. O sistema então acende as luzes sobre o mapa, mostrando as estações do melhor trajeto a seguir. 
+## Desafio 1: Calculadora 
+Objetivo: Escrever um programa que solicite ao usuário dois números e realize operações 
+simples de adição, subtração, multiplicação e divisão.
+
+Instruções:
+
+Solicite ao usuário que insira dois números.
+Realize as operações de adição, subtração, multiplicação e divisão entre esses números.
+Exiba os resultados das operações no console.
+
+Dica: Use variáveis para armazenar os números de entrada e os resultados intermediários.
