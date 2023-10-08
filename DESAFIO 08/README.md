@@ -1,9 +1,12 @@
-## DESAFIO 05: Verificador de Peso e Multa de Peixes
-Sr. José, pescador, comprou um microcomputador para
-controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de
-peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo
-(50 quilos) deve pagar uma multa de R$4,00 por quilo excedente. Sr. José, precisa que
-você faça programa que leia o peso de peixes e verifique se há excesso.
-Se houver, gravar o Excesso e o valor da multa que Sr. José
-deverá pagar. Caso contrário mostrar os valores com o conteúdo ZERO. 
-Apresentar as mensagens no console.
+## DESAFIO 05: Calculadora de Médias
+Um aluno realizou três provas de uma determinada disciplina. Levando em consideração o
+critério apresentado a seguir, faça um programa que mostre se ele ficou para exame final,
+e caso positivo, que nota o aluno precisará obter para passar de ano.
+
+"Média = (Prova 1 + Prova 2 + Prova 3) / 3"
+
+A média deve ser igual ou maior que 7,0. Caso o aluno não consiga, a nova média deve ser:
+
+"Final = (Média + Exame) / 2"
+
+A média final para a aprovação deve ser igual ou maior que 5,0.
