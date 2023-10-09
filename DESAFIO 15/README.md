@@ -1,2 +1,2 @@
-## DESAFIO 14: Soma de Todos os Elementos entre 1 e 100
-Some os números de 1 a 100 e imprima o valor.
+## DESAFIO 14: Soma de Números, até que o Usuário Pare
+Faça um algoritmo que leia números até o usuário digitar 0, após finalizar, mostre quantos números lidos, a soma e quantos são pares.
