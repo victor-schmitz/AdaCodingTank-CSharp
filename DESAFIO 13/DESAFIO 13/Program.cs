@@ -1,9 +1,4 @@
-﻿//EXERCÍCIO 02
-
-//Crie um programa que peça 10 números inteiros
-//e apresente a média, a soma e o menor.
-
-namespace Desafio13;
+﻿namespace Desafio13;
 
 class Program
 {
@@ -34,7 +29,7 @@ class Program
 
         menor = numInt.Min();
 
-        Console.Write($"Os 10 números são: ");
+        Console.Write($"\nOs 10 números são: ");
 
         for (int i = 0; i < numInt.Length; i++)
         {
