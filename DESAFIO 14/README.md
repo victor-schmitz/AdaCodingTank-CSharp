@@ -1,3 +1,2 @@
-## DESAFIO 10: Média, Soma e o Menor Valor
-Crie um programa que peça 10 números inteiros
-e apresente a média, a soma e o menor.
+## DESAFIO 14: Soma de Todos os Elementos entre 1 e 100
+Some os números de 1 a 100 e imprima o valor.
