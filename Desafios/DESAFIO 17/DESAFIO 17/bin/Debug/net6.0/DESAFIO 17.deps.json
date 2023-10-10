@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DESAFIO 17/1.0.0": {
+        "runtime": {
+          "DESAFIO 17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DESAFIO 17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

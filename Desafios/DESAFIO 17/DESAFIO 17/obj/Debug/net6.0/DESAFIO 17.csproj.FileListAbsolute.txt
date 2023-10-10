@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\bin\Debug\net6.0\DESAFIO 17.exe
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\bin\Debug\net6.0\DESAFIO 17.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\bin\Debug\net6.0\DESAFIO 17.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\bin\Debug\net6.0\DESAFIO 17.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\bin\Debug\net6.0\DESAFIO 17.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\refint\DESAFIO 17.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\DESAFIO 17.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ATUAL ADA CODING TANK PRA PROVA INCLUSIVE\AdaCodingTank-CSharp\Desafios\DESAFIO 17\DESAFIO 17\obj\Debug\net6.0\ref\DESAFIO 17.dll
