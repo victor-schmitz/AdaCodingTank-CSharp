@@ -1,3 +1,2 @@
-## Desafios do Coding Tank do curso da ADA TECH de Back-End em C#
-
-Série de desafios propostos pela ADA para a fase de Conding Tank, sobre Back-End em C#. Cada pasta dos desafios contém a descrição do mesmo.
+## DESAFIO 16: Soma dos Pares Entre 1 e 100
+EEscreva um programa em C# que calcule a soma dos números pares em um intervalo de números inteiros especificado pelo usuário.
