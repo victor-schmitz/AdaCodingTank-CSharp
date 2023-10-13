@@ -1,3 +1,3 @@
-## Desafios do Coding Tank do curso da ADA TECH de Back-End em C#
+## Prova do Coding Tank
 
-Série de desafios propostos pela ADA para a fase de Conding Tank, sobre Back-End em C#. Cada pasta dos desafios contém a descrição do mesmo.
+Prova de 5 quesões realiazada no último dia do Coding Tank.
