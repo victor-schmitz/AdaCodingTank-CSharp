@@ -1,3 +1,16 @@
-## Desafios do Coding Tank do curso da ADA TECH de Back-End em C#
+## Questão 4
+Ao executar o código a seguir será exibido qual valor no terminal? Justifique sua resposta.
 
-Série de desafios propostos pela ADA para a fase de Conding Tank, sobre Back-End em C#. Cada pasta dos desafios contém a descrição do mesmo.
+Int32 numero;
+numero = Convert.ToInt16(!(21 > 21));
+Console.WriteLine(numero);
+
+A) -1;
+
+B) 0;
+
+C) 1;
+
+D) 21;
+
+E) Irá dar erro
