@@ -1,3 +1,2 @@
-## Desafios do Coding Tank do curso da ADA TECH de Back-End em C#
-
-Série de desafios propostos pela ADA para a fase de Conding Tank, sobre Back-End em C#. Cada pasta dos desafios contém a descrição do mesmo.
+## Questão 3
+Escreva um programa que recebe como entrada uma frase do usuário. Como saída o programa deve exibir no console as seguintes informações: quantas palavras são maiúsculas, quantas palavras são minúsculas, quantas palavras iniciam com letra maiúscula, quantas palavras iniciam com letra minúscula e a quantidade de palavras.
