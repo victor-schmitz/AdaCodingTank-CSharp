@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QUESTÃO 4/1.0.0": {
+        "runtime": {
+          "QUESTÃO 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QUESTÃO 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

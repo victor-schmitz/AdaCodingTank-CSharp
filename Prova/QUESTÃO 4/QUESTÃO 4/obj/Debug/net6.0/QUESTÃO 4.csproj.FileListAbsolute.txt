@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\bin\Debug\net6.0\QUESTÃO 4.exe
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\bin\Debug\net6.0\QUESTÃO 4.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\bin\Debug\net6.0\QUESTÃO 4.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\bin\Debug\net6.0\QUESTÃO 4.dll
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\bin\Debug\net6.0\QUESTÃO 4.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.dll
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\refint\QUESTÃO 4.dll
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\QUESTÃO 4.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\PROVA ADA AGORA\PROVA-CODINGTANK-ADA\QUESTÃO 4\QUESTÃO 4\obj\Debug\net6.0\ref\QUESTÃO 4.dll
