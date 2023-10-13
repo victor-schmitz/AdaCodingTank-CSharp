@@ -1,3 +1,2 @@
-## Desafios do Coding Tank do curso da ADA TECH de Back-End em C#
-
-Série de desafios propostos pela ADA para a fase de Conding Tank, sobre Back-End em C#. Cada pasta dos desafios contém a descrição do mesmo.
+## Questão 2
+Escreva um programa que calcule e escreva a multiplicação e a divisão inteira de dois números inteiros, N1 por N2, que devem ser lidos do teclado. É importante observar que a máquina que irá executar este programa é capaz de efetuar apenas duas operações matemáticas: adição e subtração. Ou seja, você não poderá usar os operadores de multiplicação, divisão, módulo etc. bem como truncamentos.
